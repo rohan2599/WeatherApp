@@ -1,0 +1,19 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "A node based app which gives us the real time weather statistics with the help of google maps API and dark weather forecast API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohan2599/WeatherApp.git"
+  },
+  "author": "Rohan Dhoot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohan2599/WeatherApp/issues"
+  },
+  "homepage": "https://github.com/rohan2599/WeatherApp#readme"
+}
